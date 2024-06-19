@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sammy-Haddock
 - 👀 I’m interested in Software Engineering 
-- 🌱 🌱 I’m diving into full stack development, learning front-end and back-end technologies to build web applications. On the front end, I’m improving my skills in HTML, CSS, and JavaScript, and working with frameworks like React and Angular.
+- 🌱 I’m diving into full stack development, learning front-end and back-end technologies to build web applications. On the front end, I’m improving my skills in HTML, CSS, and JavaScript, and working with frameworks like React and Angular.
 - 📫 How to reach me via 
   - **email** shaddock205@gmail.com
   - **LinkedIn** [https://www.linkedin.com/in/sammy-haddock-1a1615223/](url)
