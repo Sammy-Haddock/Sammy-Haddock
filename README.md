@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m **Sammy Haddock**
 
-I’m a final-year Computer Science student at Royal Holloway, University of London, with a strong interest in **software engineering, backend systems, and full-stack development**. I enjoy building reliable, scalable applications and learning how technology works end-to-end — from APIs and databases to deployment and system design.
+I’m a final-year Computer Science student at Royal Holloway, University of London, with a strong interest in **software engineering, backend systems, and full-stack development**. I enjoy building reliable, scalable applications and learning how technology works end-to-end from APIs and databases to deployment and system design.
 
 Currently, I work with technologies such as **Python, Java, Spring Boot, React, and React Native (Expo)**, and I’m expanding my experience in machine learning and mobile application development through personal and academic projects.
 
