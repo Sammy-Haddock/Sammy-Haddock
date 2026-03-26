@@ -22,4 +22,4 @@ Currently, I work with technologies such as **Python, Java, Spring Boot, React, 
 ---
 
 ### Quick Fact  
-I’m interested in how AI and software engineering intersect — projects like AlphaFold show how well-designed systems can have real-world scientific impact.
+I’m interested in how AI and software engineering intersect projects like AlphaFold, which show how well-designed systems can have real-world scientific impact.
